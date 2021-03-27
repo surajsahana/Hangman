@@ -18,7 +18,7 @@ const hint_words = ["Rawalpindi Express", "1996 Cricket World Cup Winner", "2019
 "Most dismissals by wicketkeeper", "Highest Individual Test Scorer", "Fastest Indian Half Centurian in ODI debut", "Most IPL Winning Franchise",
 "Highest Test Wicket Taker", "Only Indian to take a hat-trick in a Test Match", "Person who had defeated Indira Gandhi in Lok Sabha election 1977",
 "Won Lok Sabha election with highest margin of votes", "This state has largest number of seats reverved for ST's in Lok Sabha", "Longest serving Chief Minister in India",
-"First President of Indian National Congress", "11th President of India", "First Indain woman President of the UN General Assembly", "Proposed the Preamble before the Drafting Committee of the Constitution",
+"First President of Indian National Congress", "11th President of India", "First Indian woman President of the UN General Assembly", "Proposed the Preamble before the Drafting Committee of the Constitution",
 "Winner of 2020 Gandhi Peace Prize", "Chief Economic Advisor", "World\'s 10 coldest cities are located in this county", "Type of government in Oman", "Second Largest Country (in terms of area)",
 "This country is divided into cantons", "Largest landlocked country", "Long, Narrow country", "World\'s oldest republic", "Smallest fully independent nation", "Won Gold Medal in 1924 olympics", "Formerly known as White Russia",
 "Formerly known as French Somaliland",
