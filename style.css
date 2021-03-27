@@ -18,7 +18,11 @@ h1 {
 	margin: 20px 0 0;
 }
 
-
+.hints {
+	font-size: 30px;
+	color: #FAF9F6;
+	font-style: italic;
+}
 
 .game-container {
 	padding: 20px 30px;
@@ -142,8 +146,3 @@ h1 {
 	transform: translateY(-50px);
 }
 
-.hints {
-	font-size: 30px;
-	color: #FAF9F6;
-	font-style: italic;
-}
