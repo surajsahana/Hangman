@@ -24,7 +24,7 @@ const hint_words = ["Rawalpindi Express", "1996 Cricket World Cup Winner", "2019
 "Formerly known as French Somaliland",
 "First Indian Film to be released commercially in Italy", "First film in which Amitabh and Jaya Bachchan worked together", "Played Gabbar Singh", "Longest running film in Indian theatres", "The only film in Bollywood where Aamir Khan & Shah Rukh Khan shared a frame",
 "Nawazuddin Siddiqui debut film", "Ajay Devgn debut film", "Bollywood actor who starred in maximum number of movies", "Best Actor (Male) in National Film Awards 2020",
-"This country won the most number of Football World Cups", "2022 Fifa World Cup host", "Most gaols in Fifa World Cup history", "Won FIFA World cup both as a player and a manager", "Scored Fastest EPL goal",
+"This country won the most number of Football World Cups", "2022 Fifa World Cup host", "Most goals in Fifa World Cup history", "Won FIFA World cup both as a player and a manager", "Scored Fastest EPL goal",
 "This Grand Slam tournament is played on grass court", "2021 Australian Open winner", "2020 US Open winner", "This fruit is traditionally served with cream at Wimbledon", "Game, Set and ?", "Won Champions League in his 1st season as a manager"];
 
 console.log(words.length)
